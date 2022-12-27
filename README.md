@@ -37,6 +37,21 @@ python3 setup.py install
 
 ## Usage
 
+### Input Format
+
+Supported input format for dictionary is as follows:
+
+```bash
+{
+    <column_name>: [<column_value>, <column_value>, . . . .],
+    <column_name>: [<column_value>, <column_value>, . . . .],
+    .
+    .
+    .
+    .
+}
+```
+
 ### Write a file using dictionary
 
 
