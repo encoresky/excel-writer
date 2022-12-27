@@ -78,4 +78,5 @@ excel_writer = ExcelWriter(file_name="test.xlsx",
                             sheet_name="sheet_1")
 
 excel_writer.write_data(data_df = data_df)
+
 ```
