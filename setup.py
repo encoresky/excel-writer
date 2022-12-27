@@ -4,7 +4,7 @@ setup(
     name="excel_writer",
     version="1.0.2",
     license='MIT',
-    description="Simple library to write excel files from dictionary or pandas datafra",
+    description="Simple library to write excel files from Python Dictionary or Pandas DataFrame.",
     author="EncoreSky Technologies",
     author_email='coontact@encoresky.com',
     url='https://github.com/encoresky/excel-writer',
