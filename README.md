@@ -2,7 +2,7 @@ Copyright (c) 2023-Present EncoreSky Technologies Pvt. Ltd. All rights reserved.
 
 # Excel Writer
 
-![version](https://img.shields.io/badge/version-1.0.3-blue)
+![version](https://img.shields.io/badge/version-1.0.4-blue)
 
 *excel_writer* is a package containing the methods for creating excel file from python dictionary or pandas dataframe.
 
