@@ -1,14 +1,8 @@
 from setuptools import setup
-from distutils.util import convert_path
-
-main_ns = {}
-ver_path = convert_path('excel_writer/version')
-with open(ver_path) as ver_file:
-    exec(ver_file.read(), main_ns)
 
 setup(
     name="excel_writer",
-    version=main_ns['__version__'],
+    version="1.0.2",
     license='MIT',
     description="Simple library to write excel files from dictionary or pandas datafra",
     author="EncoreSky Technologies",
