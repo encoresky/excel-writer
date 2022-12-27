@@ -1,10 +1,16 @@
 from setuptools import setup
 
+from pathlib import Path
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README_PyPi.md").read_text()
+
 setup(
     name="excel_writer",
-    version="1.0.4",
+    version="1.0.5",
     license='MIT',
     description="Simple library to write excel files from Python Dictionary or Pandas DataFrame.",
+    long_description=long_description,
+    long_description_content_type='text/markdown',
     author="EncoreSky Technologies",
     author_email='coontact@encoresky.com',
     url='https://github.com/encoresky/excel-writer',

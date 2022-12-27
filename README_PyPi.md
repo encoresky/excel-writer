@@ -8,27 +8,16 @@ Copyright (c) 2023-Present EncoreSky Technologies Pvt. Ltd. All rights reserved.
 
 ## Prerequisites
 
-In order to clone the repository, install the framework and the dependencies you need network access.
-
 You'll also need the following:
 
-- [Git](https://git-scm.com)
 - [Python](https://www.python.org/downloads/release/python-3811/), _excel_writer_ is compatible with version >=3.8.11.
-
-## Getting the sources
-
-First clone the repository:
-
-```bash
-git clone https://github.com/encoresky/excel-writer.git
-```
 
 ## Installation
 
 To install the package (in either a system-wide or a virtual environment), navigate to the *excel_writer* root folder in a Terminal, and type:
 
 ```bash
-python3 setup.py install
+pip install excel-writer
 ```
 
 *excel_writer* will be installed as a package in your Python distribution, along with it's dependencies if necessary.
