@@ -1,5 +1,4 @@
 Copyright (c) 2023-Present EncoreSky Technologies Pvt. Ltd. All rights reserved.
-DeepCognito EvolutionAI
 
 # Excel Writer
 
@@ -37,6 +36,21 @@ python3 setup.py install
 *N.B.* - installing in a virtual environment is recommended.
 
 ## Usage
+
+### Input Format
+
+Supported input format for dictionary is as follows:
+
+```bash
+{
+    <column_name>: [<column_value>, <column_value>, . . . .],
+    <column_name>: [<column_value>, <column_value>, . . . .],
+    .
+    .
+    .
+    .
+}
+```
 
 ### Write a file using dictionary
 
