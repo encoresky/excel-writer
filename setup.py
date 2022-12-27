@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="excel_writer",
-    version="1.0.2",
+    version="1.0.3",
     license='MIT',
     description="Simple library to write excel files from Python Dictionary or Pandas DataFrame.",
     author="EncoreSky Technologies",
