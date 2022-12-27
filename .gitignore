@@ -1,2 +1,5 @@
 # Egg Files
 *.egg-info/
+
+# Distributions Packages
+dist/
