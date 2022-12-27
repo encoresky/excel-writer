@@ -1,5 +1,4 @@
 Copyright (c) 2023-Present EncoreSky Technologies Pvt. Ltd. All rights reserved.
-DeepCognito EvolutionAI
 
 # Excel Writer
 
