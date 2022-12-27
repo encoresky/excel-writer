@@ -43,8 +43,8 @@ Supported input format for dictionary is as follows:
 
 ```bash
 {
-    <column_name>: [<column_value>, <column_value>, . . . .],
-    <column_name>: [<column_value>, <column_value>, . . . .],
+    <column_name>: [<row_value>, <row_value>, . . . .],
+    <column_name>: [<row_value>, <row_value>, . . . .],
     .
     .
     .
