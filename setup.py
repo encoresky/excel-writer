@@ -6,13 +6,13 @@ long_description = (this_directory / "README_PyPi.md").read_text()
 
 setup(
     name="excel_writer",
-    version="1.0.5",
+    version="1.0.6",
     license='MIT',
     description="Simple library to write excel files from Python Dictionary or Pandas DataFrame.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     author="EncoreSky Technologies",
-    author_email='coontact@encoresky.com',
+    author_email='contact@encoresky.com',
     url='https://github.com/encoresky/excel-writer',
     packages=[
         "excel_writer"
